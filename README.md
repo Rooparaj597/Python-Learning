@@ -23,19 +23,6 @@ This repository is my personal log of daily progress, code challenges, projects,
 - Sharpen problem-solving and algorithmic thinking
 - Share progress consistently on GitHub
 
----
-
-## 🗂️ Daily Progress
-
-| Day | Topics Covered | Files/Folder | Status |
-|-----|----------------|--------------|--------|
-| 1   | Print, Variables, Strings | `day01/` | ✅ |
-| 2   | Input, Data Types, Type Conversion | `day02/` | ✅ |
-| 3   | Conditional Statements (if/else), BMI Calculator | `day03/` | ✅ |
-| ... | ... | ... | ... |
-| 100 | Final Capstone Project | `day100/` | ⌛ |
-
-> ✅ = Completed • ⌛ = In Progress • 🔒 = Coming Soon
 
 ---
 
